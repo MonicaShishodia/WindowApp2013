@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0c182ac2-f012-417d-a586-3febf990391e" name="EQRUUWQ@R90BWA9C 2016-09-09 16:01:26" runUser="ERICSSON\EQRUUWQ" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="afba2fd5-4295-4d23-b4a4-624943a2133c">
+    <Deployment userDeploymentRoot="C:\Work\Test Solutions\ConsoleApp2013" useDefaultDeploymentRoot="false" runDeploymentRoot="EQRUUWQ_R90BWA9C 2016-09-09 16_01_26" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Properties />
+  </TestSettings>
+  <Times creation="2016-09-09T16:01:26.7574880+05:30" queuing="2016-09-09T16:01:29.0727195+05:30" start="2016-09-09T16:01:29.2937416+05:30" finish="2016-09-09T16:01:30.2208343+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestAddition" storage="c:\work\test solutions\consoleapp2013\consoleapp2013test\bin\debug\consoleapp2013test.dll" id="197abca2-ac2d-d151-c7d6-c4d5907892ad">
+      <Execution id="6dba2788-4547-4420-8b38-b79da756433a" />
+      <TestMethod codeBase="C:/Work/Test Solutions/ConsoleApp2013/ConsoleApp2013Test/bin/Debug/ConsoleApp2013Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ConsoleApp2013Test.TestCalculation, ConsoleApp2013Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAddition" />
+    </UnitTest>
+    <UnitTest name="TestNumbers" storage="c:\work\test solutions\consoleapp2013\consoleapp2013test\bin\debug\consoleapp2013test.dll" id="ec317594-e892-e512-8580-9ddf8bcb46ff">
+      <Execution id="fc8d9377-9cb0-4164-8822-8815c52b0939" />
+      <TestMethod codeBase="C:/Work/Test Solutions/ConsoleApp2013/ConsoleApp2013Test/bin/Debug/ConsoleApp2013Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ConsoleApp2013Test.TestCalculation, ConsoleApp2013Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNumbers" />
+    </UnitTest>
+    <UnitTest name="TestEmptyEntry" storage="c:\work\test solutions\consoleapp2013\consoleapp2013test\bin\debug\consoleapp2013test.dll" id="21f643cb-efdc-832e-3795-0bac75c1b298">
+      <Execution id="dafa0725-94a3-4880-906e-d119a161fcf1" />
+      <TestMethod codeBase="C:/Work/Test Solutions/ConsoleApp2013/ConsoleApp2013Test/bin/Debug/ConsoleApp2013Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ConsoleApp2013Test.TestCalculation, ConsoleApp2013Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEmptyEntry" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="197abca2-ac2d-d151-c7d6-c4d5907892ad" executionId="6dba2788-4547-4420-8b38-b79da756433a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="21f643cb-efdc-832e-3795-0bac75c1b298" executionId="dafa0725-94a3-4880-906e-d119a161fcf1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ec317594-e892-e512-8580-9ddf8bcb46ff" executionId="fc8d9377-9cb0-4164-8822-8815c52b0939" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6dba2788-4547-4420-8b38-b79da756433a" testId="197abca2-ac2d-d151-c7d6-c4d5907892ad" testName="TestAddition" computerName="R90BWA9C" duration="00:00:00.1075120" startTime="2016-09-09T16:01:29.5267649+05:30" endTime="2016-09-09T16:01:30.1578280+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6dba2788-4547-4420-8b38-b79da756433a">
+    </UnitTestResult>
+    <UnitTestResult executionId="dafa0725-94a3-4880-906e-d119a161fcf1" testId="21f643cb-efdc-832e-3795-0bac75c1b298" testName="TestEmptyEntry" computerName="R90BWA9C" duration="00:00:00.0016528" startTime="2016-09-09T16:01:30.1668289+05:30" endTime="2016-09-09T16:01:30.1708293+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dafa0725-94a3-4880-906e-d119a161fcf1">
+    </UnitTestResult>
+    <UnitTestResult executionId="fc8d9377-9cb0-4164-8822-8815c52b0939" testId="ec317594-e892-e512-8580-9ddf8bcb46ff" testName="TestNumbers" computerName="R90BWA9C" duration="00:00:00.0021091" startTime="2016-09-09T16:01:30.1768299+05:30" endTime="2016-09-09T16:01:30.1828305+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc8d9377-9cb0-4164-8822-8815c52b0939">
+    </UnitTestResult>
+  </Results>
+</TestRun>

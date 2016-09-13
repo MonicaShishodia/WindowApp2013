@@ -1,0 +1,8 @@
+C:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013Test\bin\Debug\ConsoleApp2013Test.dll
+C:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013Test\bin\Debug\ConsoleApp2013Test.pdb
+C:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013Test\bin\Debug\ConsoleApp2013.exe
+C:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013Test\bin\Debug\ConsoleApp2013.pdb
+C:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013Test\obj\Debug\ConsoleApp2013Test.csprojResolveAssemblyReference.cache
+C:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013Test\obj\Debug\ConsoleApp2013Test.dll
+C:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013Test\obj\Debug\ConsoleApp2013Test.pdb
+C:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

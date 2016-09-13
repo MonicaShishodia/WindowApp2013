@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<results>
+  <modules>
+    <module name="consoleapp2013test.dll" path="consoleapp2013test.dll" id="126FB8F94C448843A2BCC4731D698FEF01000000" block_coverage="100.00" line_coverage="100.00" blocks_covered="12" blocks_not_covered="0" lines_covered="13" lines_partially_covered="0" lines_not_covered="0">
+      <functions>
+        <function id="8272" token="0x6000001" name="TestEmptyEntry()" type_name="TestCalculation" block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="0" covered="yes" start_line="12" start_column="9" end_line="12" end_column="10" />
+            <range source_id="0" covered="yes" start_line="13" start_column="13" end_line="13" end_column="35" />
+            <range source_id="0" covered="yes" start_line="14" start_column="13" end_line="14" end_column="59" />
+            <range source_id="0" covered="yes" start_line="15" start_column="9" end_line="15" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8316" token="0x6000002" name="TestNumbers()" type_name="TestCalculation" block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="0" covered="yes" start_line="18" start_column="9" end_line="18" end_column="10" />
+            <range source_id="0" covered="yes" start_line="19" start_column="13" end_line="19" end_column="35" />
+            <range source_id="0" covered="yes" start_line="20" start_column="13" end_line="20" end_column="57" />
+            <range source_id="0" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8360" token="0x6000003" name="TestAddition()" type_name="TestCalculation" block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="0" covered="yes" start_line="24" start_column="9" end_line="24" end_column="10" />
+            <range source_id="0" covered="yes" start_line="25" start_column="13" end_line="25" end_column="35" />
+            <range source_id="0" covered="yes" start_line="26" start_column="13" end_line="26" end_column="46" />
+            <range source_id="0" covered="yes" start_line="27" start_column="13" end_line="27" end_column="41" />
+            <range source_id="0" covered="yes" start_line="28" start_column="9" end_line="28" end_column="10" />
+          </ranges>
+        </function>
+      </functions>
+      <source_files>
+        <source_file id="0" path="c:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013Test\UnitTest1.cs">
+        </source_file>
+      </source_files>
+    </module>
+    <module name="consoleapp2013.exe" path="consoleapp2013.exe" id="BFE457DCF25C2B4EA765DC4E3FF65DE803000000" block_coverage="61.21" line_coverage="70.73" blocks_covered="71" blocks_not_covered="45" lines_covered="58" lines_partially_covered="1" lines_not_covered="23">
+      <functions>
+        <function id="8272" token="0x6000001" name="Form1()" type_name="Form1" block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="8" start_column="9" end_line="8" end_column="68" />
+            <range source_id="2" covered="yes" start_line="15" start_column="9" end_line="15" end_column="23" />
+            <range source_id="2" covered="yes" start_line="16" start_column="9" end_line="16" end_column="10" />
+            <range source_id="2" covered="yes" start_line="17" start_column="13" end_line="17" end_column="35" />
+            <range source_id="2" covered="yes" start_line="18" start_column="9" end_line="18" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8300" token="0x6000002" name="button1_Click(object, System.EventArgs)" type_name="Form1" block_coverage="0.00" line_coverage="0.00" blocks_covered="0" blocks_not_covered="30" lines_covered="0" lines_partially_covered="0" lines_not_covered="9">
+          <ranges>
+            <range source_id="2" covered="no" start_line="21" start_column="9" end_line="21" end_column="10" />
+            <range source_id="2" covered="no" start_line="22" start_column="13" end_line="22" end_column="82" />
+            <range source_id="2" covered="no" start_line="23" start_column="13" end_line="23" end_column="14" />
+            <range source_id="2" covered="no" start_line="24" start_column="17" end_line="24" end_column="78" />
+            <range source_id="2" covered="no" start_line="25" start_column="21" end_line="25" end_column="123" />
+            <range source_id="2" covered="no" start_line="26" start_column="22" end_line="26" end_column="53" />
+            <range source_id="2" covered="no" start_line="27" start_column="13" end_line="27" end_column="14" />
+            <range source_id="2" covered="no" start_line="28" start_column="18" end_line="28" end_column="49" />
+            <range source_id="2" covered="no" start_line="29" start_column="9" end_line="29" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8488" token="0x6000003" name="CheckEmptyEntry(string)" type_name="Form1" block_coverage="80.00" line_coverage="80.00" blocks_covered="4" blocks_not_covered="1" lines_covered="4" lines_partially_covered="0" lines_not_covered="1">
+          <ranges>
+            <range source_id="2" covered="yes" start_line="31" start_column="9" end_line="31" end_column="10" />
+            <range source_id="2" covered="yes" start_line="32" start_column="13" end_line="32" end_column="45" />
+            <range source_id="2" covered="no" start_line="33" start_column="17" end_line="33" end_column="30" />
+            <range source_id="2" covered="yes" start_line="34" start_column="18" end_line="34" end_column="30" />
+            <range source_id="2" covered="yes" start_line="35" start_column="9" end_line="35" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8524" token="0x6000004" name="CheckNumber(string)" type_name="Form1" block_coverage="80.00" line_coverage="80.00" blocks_covered="4" blocks_not_covered="1" lines_covered="4" lines_partially_covered="0" lines_not_covered="1">
+          <ranges>
+            <range source_id="2" covered="yes" start_line="37" start_column="9" end_line="37" end_column="10" />
+            <range source_id="2" covered="yes" start_line="39" start_column="13" end_line="39" end_column="52" />
+            <range source_id="2" covered="yes" start_line="40" start_column="17" end_line="40" end_column="29" />
+            <range source_id="2" covered="no" start_line="41" start_column="18" end_line="41" end_column="31" />
+            <range source_id="2" covered="yes" start_line="42" start_column="9" end_line="42" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8564" token="0x6000005" name="AddNumber(int, int)" type_name="Form1" block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="2" covered="yes" start_line="44" start_column="9" end_line="44" end_column="10" />
+            <range source_id="2" covered="yes" start_line="45" start_column="13" end_line="45" end_column="26" />
+            <range source_id="2" covered="yes" start_line="46" start_column="9" end_line="46" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8588" token="0x6000006" name="Dispose(bool)" type_name="Form1" block_coverage="62.50" line_coverage="42.86" blocks_covered="5" blocks_not_covered="3" lines_covered="3" lines_partially_covered="1" lines_not_covered="3">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="15" start_column="9" end_line="15" end_column="10" />
+            <range source_id="1" covered="partial" start_line="16" start_column="13" end_line="16" end_column="51" />
+            <range source_id="1" covered="no" start_line="17" start_column="13" end_line="17" end_column="14" />
+            <range source_id="1" covered="no" start_line="18" start_column="17" end_line="18" end_column="38" />
+            <range source_id="1" covered="no" start_line="19" start_column="13" end_line="19" end_column="14" />
+            <range source_id="1" covered="yes" start_line="20" start_column="13" end_line="20" end_column="37" />
+            <range source_id="1" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8644" token="0x6000007" name="InitializeComponent()" type_name="Form1" block_coverage="100.00" line_coverage="100.00" blocks_covered="53" blocks_not_covered="0" lines_covered="39" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="30" start_column="9" end_line="30" end_column="10" />
+            <range source_id="1" covered="yes" start_line="31" start_column="13" end_line="31" end_column="62" />
+            <range source_id="1" covered="yes" start_line="32" start_column="13" end_line="32" end_column="60" />
+            <range source_id="1" covered="yes" start_line="33" start_column="13" end_line="33" end_column="64" />
+            <range source_id="1" covered="yes" start_line="34" start_column="13" end_line="34" end_column="64" />
+            <range source_id="1" covered="yes" start_line="35" start_column="13" end_line="35" end_column="34" />
+            <range source_id="1" covered="yes" start_line="39" start_column="13" end_line="39" end_column="71" />
+            <range source_id="1" covered="yes" start_line="40" start_column="13" end_line="40" end_column="43" />
+            <range source_id="1" covered="yes" start_line="41" start_column="13" end_line="41" end_column="66" />
+            <range source_id="1" covered="yes" start_line="42" start_column="13" end_line="42" end_column="39" />
+            <range source_id="1" covered="yes" start_line="43" start_column="13" end_line="43" end_column="49" />
+            <range source_id="1" covered="yes" start_line="44" start_column="13" end_line="44" end_column="57" />
+            <range source_id="1" covered="yes" start_line="45" start_column="13" end_line="45" end_column="79" />
+            <range source_id="1" covered="yes" start_line="49" start_column="13" end_line="49" end_column="41" />
+            <range source_id="1" covered="yes" start_line="50" start_column="13" end_line="50" end_column="69" />
+            <range source_id="1" covered="yes" start_line="51" start_column="13" end_line="51" end_column="41" />
+            <range source_id="1" covered="yes" start_line="52" start_column="13" end_line="52" end_column="65" />
+            <range source_id="1" covered="yes" start_line="53" start_column="13" end_line="53" end_column="38" />
+            <range source_id="1" covered="yes" start_line="54" start_column="13" end_line="54" end_column="63" />
+            <range source_id="1" covered="yes" start_line="58" start_column="13" end_line="58" end_column="71" />
+            <range source_id="1" covered="yes" start_line="59" start_column="13" end_line="59" end_column="45" />
+            <range source_id="1" covered="yes" start_line="60" start_column="13" end_line="60" end_column="67" />
+            <range source_id="1" covered="yes" start_line="61" start_column="13" end_line="61" end_column="40" />
+            <range source_id="1" covered="yes" start_line="65" start_column="13" end_line="65" end_column="72" />
+            <range source_id="1" covered="yes" start_line="66" start_column="13" end_line="66" end_column="45" />
+            <range source_id="1" covered="yes" start_line="67" start_column="13" end_line="67" end_column="67" />
+            <range source_id="1" covered="yes" start_line="68" start_column="13" end_line="68" end_column="40" />
+            <range source_id="1" covered="yes" start_line="72" start_column="13" end_line="72" end_column="74" />
+            <range source_id="1" covered="yes" start_line="73" start_column="13" end_line="73" end_column="74" />
+            <range source_id="1" covered="yes" start_line="74" start_column="13" end_line="74" end_column="65" />
+            <range source_id="1" covered="yes" start_line="75" start_column="13" end_line="75" end_column="46" />
+            <range source_id="1" covered="yes" start_line="76" start_column="13" end_line="76" end_column="46" />
+            <range source_id="1" covered="yes" start_line="77" start_column="13" end_line="77" end_column="44" />
+            <range source_id="1" covered="yes" start_line="78" start_column="13" end_line="78" end_column="45" />
+            <range source_id="1" covered="yes" start_line="79" start_column="13" end_line="79" end_column="33" />
+            <range source_id="1" covered="yes" start_line="80" start_column="13" end_line="80" end_column="33" />
+            <range source_id="1" covered="yes" start_line="81" start_column="13" end_line="81" end_column="38" />
+            <range source_id="1" covered="yes" start_line="82" start_column="13" end_line="82" end_column="34" />
+            <range source_id="1" covered="yes" start_line="84" start_column="9" end_line="84" end_column="10" />
+          </ranges>
+        </function>
+        <function id="9253" token="0x6000008" name="Main()" type_name="Program" block_coverage="0.00" line_coverage="0.00" blocks_covered="0" blocks_not_covered="5" lines_covered="0" lines_partially_covered="0" lines_not_covered="5">
+          <ranges>
+            <range source_id="0" covered="no" start_line="16" start_column="9" end_line="16" end_column="10" />
+            <range source_id="0" covered="no" start_line="17" start_column="13" end_line="17" end_column="46" />
+            <range source_id="0" covered="no" start_line="18" start_column="13" end_line="18" end_column="66" />
+            <range source_id="0" covered="no" start_line="19" start_column="13" end_line="19" end_column="42" />
+            <range source_id="0" covered="no" start_line="20" start_column="9" end_line="20" end_column="10" />
+          </ranges>
+        </function>
+        <function id="9396" token="0x600000d" name="get_Default()" type_name="Settings" block_coverage="0.00" line_coverage="0.00" blocks_covered="0" blocks_not_covered="2" lines_covered="0" lines_partially_covered="0" lines_not_covered="3">
+          <ranges>
+            <range source_id="3" covered="no" start_line="25" start_column="13" end_line="25" end_column="14" />
+            <range source_id="3" covered="no" start_line="26" start_column="17" end_line="26" end_column="40" />
+            <range source_id="3" covered="no" start_line="27" start_column="13" end_line="27" end_column="14" />
+          </ranges>
+        </function>
+        <function id="9419" token="0x600000f" name="Settings()" type_name="Settings" block_coverage="0.00" line_coverage="0.00" blocks_covered="0" blocks_not_covered="3" lines_covered="0" lines_partially_covered="0" lines_not_covered="1">
+          <ranges>
+            <range source_id="3" covered="no" start_line="20" start_column="9" end_line="20" end_column="147" />
+          </ranges>
+        </function>
+      </functions>
+      <source_files>
+        <source_file id="0" path="c:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013\Program.cs">
+        </source_file>
+        <source_file id="1" path="c:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013\Form1.Designer.cs">
+        </source_file>
+        <source_file id="2" path="c:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013\Form1.cs">
+        </source_file>
+        <source_file id="3" path="c:\Work\Test Solutions\ConsoleApp2013\ConsoleApp2013\Properties\Settings.Designer.cs">
+        </source_file>
+      </source_files>
+    </module>
+  </modules>
+</results>
